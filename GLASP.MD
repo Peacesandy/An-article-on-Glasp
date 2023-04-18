@@ -52,3 +52,6 @@ Follow the same steps as described earlier, stopping before the "Copy Content" s
 * Glasp is important because it helps learners get recognized for finding amazing highlights and it helps them connect with others who are learning the same thing at the same time.
 * Glasp has the best highlighting workflow, while reading an article, you can select test in order to highlight and annotate without having to go to a different page.
 * All of your highlights for a specifiv article appear on a right side bar as you're reading, and they're easy to copy and paste into another note-taking app.
+
+
+Glasp is a really amazing tool, i highly recommend checking out Glasp if you like to read articles. Sign up and use it!
