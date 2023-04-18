@@ -3,7 +3,7 @@
 
 # Introduction
 Glasp is an AI - powered summary for thought leaders, it is a personalized summary based on your highlights
-and notes. GLASP - stands for 'Greatest Legacy Accumulated as Shared Proff".
+and notes. GLASP - stands for "Greatest Legacy Accumulated as Shared Proff".
 
 # An Overview of Glasp
 Glasp is a highlighting app that can be used to read articles and take notes. It is also a social note-taking
@@ -28,3 +28,8 @@ Moreover, Glasp serves as a social highlighting tool that enables you to connect
 Unlike other tools that merely store links for later reading, Glasp encourages active reading and note-taking. Its social aspect also fosters accountability, motivating you to follow through and read and process the information.
 
 Finally, searching through your highlights on Glasp is much simpler than scrolling through old notebooks, which often lack the search functionality.
+
+# How to use Glasp with Obsidian
+To use Glasp, you will require both Obsidian and the Glasp extension.
+
+* Fisrt Option
