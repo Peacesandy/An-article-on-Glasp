@@ -33,3 +33,11 @@ Finally, searching through your highlights on Glasp is much simpler than scrolli
 To use Glasp, you will require both Obsidian and the Glasp extension.
 
  _First Option_
+ To get started, highlight the relevant sentences and quotes that you wish to keep, and add any necessary notes.
+
+Next, navigate to the Glasp homepage, select "My Highlights", and locate the article containing the quotes you wish to use. Then, click "Copy Content" in the top-right corner.
+
+Finally, open Obsidian, create a new page, and paste the copied information into it.
+
+_Second Option_
+Follow the same steps as described earlier, stopping before the "Copy Content" step. Instead, click the button next to it, followed by the purple MD icon beneath it. Save your note in the desired Obsidian folder, and it will appear in the app.
