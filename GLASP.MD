@@ -43,3 +43,12 @@ Finally, open Obsidian, create a new page, and paste the copied information into
 * Second Option
 
 Follow the same steps as described earlier, stopping before the "Copy Content" step. Instead, click the button next to it, followed by the purple MD icon beneath it. Save your note in the desired Obsidian folder, and it will appear in the app.
+
+# Advantages of utilizing Glasp
+
+* Highlighting with glasp helps us to actually raed rather than scan through an article.
+* Glasp helps Users to also quickly refer to important sections of an article
+* Glasp is a very helpful tool, that allows Users keep easily accessible, the most important and interesting content we see.
+* Glasp is important because it helps learners get recognized for finding amazing highlights and it helps them connect with others who are learning the same thing at the same time.
+* Glasp has the best highlighting workflow, while reading an article, you can select test in order to highlight and annotate without having to go to a different page.
+* All of your highlights for a specifiv article appear on a right side bar as you're reading, and they're easy to copy and paste into another note-taking app.
