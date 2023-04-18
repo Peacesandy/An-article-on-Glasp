@@ -32,4 +32,4 @@ Finally, searching through your highlights on Glasp is much simpler than scrolli
 # How to use Glasp with Obsidian
 To use Glasp, you will require both Obsidian and the Glasp extension.
 
-* Fisrt Option
+ _First Option_
