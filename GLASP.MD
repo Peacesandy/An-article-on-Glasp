@@ -25,6 +25,7 @@ To add the Glasp extension to Google Chrome, please follow the steps below:
 
 1. Launch Google Chrome on your computer.
 2. Navigate to the official website of [Glasp](glasp.co).
+![](openonyourbrowser.png)
 3. Locate and click on the "Install on Chrome" button.
 4. Afterward, you will be redirected to the Chrome Web Store.
 5. Next, click on the "Add to Chrome" button located at the top right corner of the page.
