@@ -52,15 +52,19 @@ Follow the same steps as described earlier, stopping before the "Copy Content" s
 
 # Here are some of the features of Glasp
 - Summarization
+
 Glasp is an AI tool that creates text summaries of YouTube videos, displayed in a separate panel. Users can customize the summary's level of detail, choose from multiple languages, and see key phrases highlighted. The summary can be shared via email, social media, or messaging apps, or copied to a text editor.
 
 - Customization
+
 Users have the ability to customize the level of detail in the video summary by adjusting the summarization settings. This allows them to choose between a brief overview of the video or a more comprehensive summary that includes more information.
 
 - Language Support
+
 Glasp offers support for several languages, such as English, French, German, Italian, Portuguese, and Spanish.
 
 - Highlighting
+
 Glasp simplifies comprehension of the video's key points by highlighting significant phrases and sentences in the summary.
 
 
