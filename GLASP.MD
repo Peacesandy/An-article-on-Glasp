@@ -14,8 +14,11 @@ Glasp's   primary objective is to eliminate the isolation of knowledge, commonly
 # Getting Started with Glasp
   The steps below will guide you on how to sign up on Glasp
   1. Go to your web browser and type glasp.
+  !()[openonyourbrowser.png]
   2. The official website will pop-up, click on it and navigate to creating your account.
+  !()[signupbeta.png]
   3. Click the Glasp icon, then sign up via Google account.
+  !()[continuewithgoogle.png]
 
   # How do i use Glasp
 Glasp's navigation is straightforward and easy to follow. To highlight your information, you can simply click and drag as you would on a regular page. Then, select a color to use for highlighting. You can collect all the necessary information from the page you're reading at once, and process it later into your preferred note-taking software.
@@ -27,10 +30,13 @@ To add the Glasp extension to Google Chrome, please follow the steps below:
 2. Navigate to the official website of [Glasp](glasp.co).
 ![](openonyourbrowser.png)
 3. Locate and click on the "Install on Chrome" button.
+![](installonchrome.png)
 4. Afterward, you will be redirected to the Chrome Web Store.
 5. Next, click on the "Add to Chrome" button located at the top right corner of the page.
-  A confirmation pop-up window will appear asking for permission to add the extension. 
+  A confirmation pop-up window will appear asking for permission to add the extension.
+  ![](Addtochrome.png)
 6. Click on "Add extension" to confirm.
+![](acceptextension.png)
 7. Allow a few seconds for the installation to complete.
 8. Upon completion, the Glasp icon will appear on the top right corner of your browser.
  Congratulations! You have now successfully installed the Glasp extension on Google Chrome.
