@@ -34,14 +34,6 @@ To add the Glasp extension to Google Chrome, please follow the steps below:
 8. Upon completion, the Glasp icon will appear on the top right corner of your browser.
  Congratulations! You have now successfully installed the Glasp extension on Google Chrome.
 
-# Reasons to use glasp
-When using Glasp, you can seamlessly gather information without interrupting your reading flow. Unlike traditional methods where you have to stop, navigate to a different page, or refer to physical notes, Glasp allows you to collect all necessary information from a single page and process it later into your preferred note-taking software.
-
-Moreover, Glasp serves as a social highlighting tool that enables you to connect with people searching for similar information and gain insights from their ideas. You can build upon their thoughts, discover what others find essential, and learn why.
-
-Unlike other tools that merely store links for later reading, Glasp encourages active reading and note-taking. Its social aspect also fosters accountability, motivating you to follow through and read and process the information.
-
-Finally, searching through your highlights on Glasp is much simpler than scrolling through old notebooks, which often lack the search functionality.
 
 # How to use Glasp with Obsidian
 To use Glasp, you will require both Obsidian and the Glasp extension.
@@ -58,9 +50,32 @@ Finally, open Obsidian, create a new page, and paste the copied information into
 
 Follow the same steps as described earlier, stopping before the "Copy Content" step. Instead, click the button next to it, followed by the purple MD icon beneath it. Save your note in the desired Obsidian folder, and it will appear in the app.
 
+# Here are some of the features of Glasp
+- Summarization
+Glasp is an AI tool that creates text summaries of YouTube videos, displayed in a separate panel. Users can customize the summary's level of detail, choose from multiple languages, and see key phrases highlighted. The summary can be shared via email, social media, or messaging apps, or copied to a text editor.
+
+- Customization
+Users have the ability to customize the level of detail in the video summary by adjusting the summarization settings. This allows them to choose between a brief overview of the video or a more comprehensive summary that includes more information.
+
+- Language Support
+Glasp offers support for several languages, such as English, French, German, Italian, Portuguese, and Spanish.
+
+- Highlighting
+Glasp simplifies comprehension of the video's key points by highlighting significant phrases and sentences in the summary.
+
+
+ # Reasons to use glasp
+When using Glasp, you can seamlessly gather information without interrupting your reading flow. Unlike traditional methods where you have to stop, navigate to a different page, or refer to physical notes, Glasp allows you to collect all necessary information from a single page and process it later into your preferred note-taking software.
+
+Moreover, Glasp serves as a social highlighting tool that enables you to connect with people searching for similar information and gain insights from their ideas. You can build upon their thoughts, discover what others find essential, and learn why.
+
+Unlike other tools that merely store links for later reading, Glasp encourages active reading and note-taking. Its social aspect also fosters accountability, motivating you to follow through and read and process the information.
+
+
+
 # Advantages of utilizing Glasp
 
-* Highlighting with glasp helps us to actually raed rather than scan through an article.
+* Highlighting with glasp helps us to actually read rather than scan through an article.
 
 * Glasp helps Users to also quickly refer to important sections of an article
 
@@ -70,7 +85,7 @@ Follow the same steps as described earlier, stopping before the "Copy Content" s
 
 * Glasp has the best highlighting workflow, while reading an article, you can select test in order to highlight and annotate without having to go to a different page.
 
-* All of your highlights for a specifiv article appear on a right side bar as you're reading, and they're easy to copy and paste into another note-taking app.
+* All of your highlights for a specific article appear on a right side bar as you're reading, and they're easy to copy and paste into another note-taking app.
 
 # Conclusion
 Glasp is a really amazing tool, i highly recommend checking out Glasp if you like to read articles. Sign up and use it!
