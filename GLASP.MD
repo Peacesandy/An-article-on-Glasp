@@ -13,12 +13,26 @@ Glasp's   primary objective is to eliminate the isolation of knowledge, commonly
 
 # Getting Started with Glasp
   The steps below will guide you on how to sign up on Glasp
-  - Go to your web browser and type glasp.
-  - The official website will pop-up, click on it and navigate to creating your account.
-  - Click the Glasp icon, then sign up v9ia Google account.
+  1. Go to your web browser and type glasp.
+  2. The official website will pop-up, click on it and navigate to creating your account.
+  3. Click the Glasp icon, then sign up v9ia Google account.
 
   # How do i use Glasp
 Glasp's navigation is straightforward and easy to follow. To highlight your information, you can simply click and drag as you would on a regular page. Then, select a color to use for highlighting. You can collect all the necessary information from the page you're reading at once, and process it later into your preferred note-taking software.
+
+# Install Glasp Extension
+To add the Glasp extension to Google Chrome, please follow the steps below:
+
+1. Launch Google Chrome on your computer.
+2. Navigate to the official website of Glasp.
+3. Locate and click on the "Install on Chrome" button.
+4. Afterward, you will be redirected to the Chrome Web Store.
+5. Next, click on the "Add to Chrome" button located at the top right corner of the page.
+  A confirmation pop-up window will appear asking for permission to add the extension. 
+6. Click on "Add extension" to confirm.
+7. Allow a few seconds for the installation to complete.
+8. Upon completion, the Glasp icon will appear on the top right corner of your browser.
+ Congratulations! You have now successfully installed the Glasp extension on Google Chrome.
 
 # Reasons to use glasp
 When using Glasp, you can seamlessly gather information without interrupting your reading flow. Unlike traditional methods where you have to stop, navigate to a different page, or refer to physical notes, Glasp allows you to collect all necessary information from a single page and process it later into your preferred note-taking software.
@@ -47,10 +61,15 @@ Follow the same steps as described earlier, stopping before the "Copy Content" s
 # Advantages of utilizing Glasp
 
 * Highlighting with glasp helps us to actually raed rather than scan through an article.
+
 * Glasp helps Users to also quickly refer to important sections of an article
+
 * Glasp is a very helpful tool, that allows Users keep easily accessible, the most important and interesting content we see.
+
 * Glasp is important because it helps learners get recognized for finding amazing highlights and it helps them connect with others who are learning the same thing at the same time.
+
 * Glasp has the best highlighting workflow, while reading an article, you can select test in order to highlight and annotate without having to go to a different page.
+
 * All of your highlights for a specifiv article appear on a right side bar as you're reading, and they're easy to copy and paste into another note-taking app.
 
 # Conclusion
