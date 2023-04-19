@@ -14,11 +14,11 @@ Glasp's   primary objective is to eliminate the isolation of knowledge, commonly
 # Getting Started with Glasp
   The steps below will guide you on how to sign up on Glasp
   1. Go to your web browser and type glasp.
-  !()[openonyourbrowser.png]
+  ![](openonyourbrowser.png)
   2. The official website will pop-up, click on it and navigate to creating your account.
-  !()[signupbeta.png]
+  ![](signupbeta.png)
   3. Click the Glasp icon, then sign up via Google account.
-  !()[continuewithgoogle.png]
+  ![](continuewithgoogle.png)
 
   # How do i use Glasp
 Glasp's navigation is straightforward and easy to follow. To highlight your information, you can simply click and drag as you would on a regular page. Then, select a color to use for highlighting. You can collect all the necessary information from the page you're reading at once, and process it later into your preferred note-taking software.
